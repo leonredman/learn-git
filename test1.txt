@@ -1,1 +1,16 @@
-Change 1 
+THIS S A LEARNING REPO FOR GIT
+git init
+git add
+git commit
+git push -u origin master
+git touch
+git status
+
+Shortcut to see hidden files
+CMD + SHift + .
+
+git config --global user.email "yourEmail.com"
+git config --global user.name "yourGitHubUserName"
+
+Basic resources
+https://www.youtube.com/watch?v=0Icla6TVNNo
